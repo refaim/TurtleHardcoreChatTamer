@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffabd473Turtle|r |cffe6cd80Hardcore|r Chat Tamer
+## Author: Refaim
+## Notes: Forces global Hardcore chat to respect the checkbox in chat channels settings.
+## Version: 1.0
+## SavedVariables: THCT_chatToStatus
+
+main.lua
